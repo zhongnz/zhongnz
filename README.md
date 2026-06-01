@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a2980,100:26d0ce&height=150&section=header&text=Peter%20Fengze%20Zhong&fontColor=ffffff&fontSize=42&fontAlignY=40&desc=AI%20%26%20Machine%20Learning%20Researcher%20%40%20NYU&descAlignY=62&descSize=18" alt="Peter Fengze Zhong — AI & Machine Learning Researcher @ NYU" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a2980,100:26d0ce&height=150&section=header&text=Peter%20Fengze%20Zhong&fontColor=ffffff&fontSize=42&fontAlignY=40&desc=AI%20%26amp%3B%20Machine%20Learning%20Researcher%20%40%20NYU&descAlignY=62&descSize=18" alt="Peter Fengze Zhong — AI & Machine Learning Researcher @ NYU" width="100%" />
 
 <p>
   <em>Building trustworthy AI agents, reinforcement learning, and quantitative methods — grounded in rigorous data science.</em>
@@ -10,8 +10,8 @@
   <a href="https://www.linkedin.com/in/zhongpeter">
     <img src="https://img.shields.io/badge/LinkedIn-zhongpeter-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:fz2411@nyu.edu">
-    <img src="https://img.shields.io/badge/Email-fz2411%40nyu.edu-D44638?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="https://github.com/zhongnz/zhongnz/discussions">
+    <img src="https://img.shields.io/badge/Discussions-Reach%20out-2da44e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Discussions" />
   </a>
   <a href="https://github.com/zhongnz">
     <img src="https://img.shields.io/badge/GitHub-zhongnz-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -107,7 +107,7 @@ I build primarily in Python and the Jupyter ecosystem for ML and data science, w
 
 <a href="https://www.linkedin.com/in/zhongpeter"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 &nbsp;
-<a href="mailto:fz2411@nyu.edu"><img src="https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/zhongnz/zhongnz/discussions"><img src="https://img.shields.io/badge/Discussions-2da44e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Discussions" /></a>
 &nbsp;
 <a href="https://github.com/zhongnz"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
