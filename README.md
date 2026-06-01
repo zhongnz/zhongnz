@@ -87,7 +87,7 @@ I build primarily in Python and the Jupyter ecosystem for ML and data science, w
 | :-- | :-- | :-- |
 | **[agent_assurance](https://github.com/zhongnz/agent_assurance)** | Assurance methodology for autonomous AI agents in regulated financial services. | AI Agents &amp; Assurance · Python |
 | **[Imp_FinRL_DeepSeek](https://github.com/zhongnz/Imp_FinRL_DeepSeek)** | LLM-infused, risk-sensitive reinforcement learning for trading agents. | Quant Finance · RL · Jupyter / Python |
-| **[hmarl_backup](https://github.com/zhongnz/hmarl_backup)** | Hierarchical multi-agent RL for congestion-aware vessel scheduling with predictive port coordination. | Reinforcement Learning · Python |
+| **[earth_rover](https://github.com/zhongnz/earth_rover)** | Image-based autonomous navigation on the FrodoBots Earth Rovers SDK — teleoperation, data logging, and offline analysis. | AI Agents · Robotics · Python |
 | **[citibikeRL](https://github.com/zhongnz/citibikeRL)** | Reinforcement learning on NYC Citi Bike data — RL applied to urban mobility. | Reinforcement Learning · Python |
 | **[nyudsc_pulse](https://github.com/zhongnz/nyudsc_pulse)** | NYU Data Science Club hackathon project. | Data Science · TypeScript / React |
 
